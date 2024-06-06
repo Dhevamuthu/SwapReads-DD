@@ -52,8 +52,9 @@
 }
 .navbar-item {
   cursor: pointer;
-  padding: none;
+  padding: 20px;
   font-size: 15px;
+  
 }
 
 .navbar-link {
